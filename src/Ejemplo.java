@@ -6,6 +6,8 @@ public class Ejemplo {
 		System.out.println("Hola mundo");
 		
 		String nombre = "Natalia";
+		
+		System.out.println(nombre);
 	}
 
 }
